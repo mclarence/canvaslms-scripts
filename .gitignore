@@ -1,2 +1,6 @@
 *.csv
 .DS_Store
+course_images
+writing_sample_templates
+.venv
+__pycache__

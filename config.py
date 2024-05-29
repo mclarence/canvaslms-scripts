@@ -1,7 +1,7 @@
 import os
 
-base_url = 'https://canvas.instructure.com'
-account_id = 0
+base_url = 'https://canvas.parra.catholic.edu.au'
+account_id = 8
 
 try:
     with open(os.path.expanduser('~/.canvas-api-token')) as f:
